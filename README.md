@@ -8,4 +8,4 @@
 
 Вид лога:
 
-![Steam](https://github.com/r3xq1/Steam/blob/master/2.png)
+![Steam](https://image.ibb.co/dwLjid/2.png)
